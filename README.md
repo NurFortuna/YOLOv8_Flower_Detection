@@ -3,6 +3,8 @@
 
 [Data](https://universe.roboflow.com/my-datasets-0aq8j/flower-46h98/dataset/2)
 
+![resim](https://github.com/NurFortuna/YOLOv8_Flower_Detection/blob/main/images/4.jpg)
+
 YOLOv8 is the latest installment in the highly influential family of models that use the YOLO (You Only Look Once) architecture. YOLOv8 was developed by Ultralytics, a team known for its work on YOLOv3 and YOLOv5.
 
 Following the trend set by  YOLOv6 and YOLOv7, we have at our disposal object detection, but also instance segmentation, and image classification. The model itself is created in PyTorch and runs on both the CPU and GPU. As with YOLOv5, we also have a number of various exports such as TF.js or CoreML.[1]
